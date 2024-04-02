@@ -2,7 +2,7 @@
 <h3 align="center"> Hanya Seorang Hamba Allah!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="Bagassamuji" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="byu.jpg">
+<img align="right" alt="Coding" width="250" height="400" src="https://avatars.githubusercontent.com/u/165216278?v=4">
 
 - 👨‍💻 You can also check out my portfolio at (https://bagassamuji.github.io/)
 
